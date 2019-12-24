@@ -1,14 +1,21 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "list":[
+      {
+         "isEnabled":true,
+         "partner":{
+            "id":"43sasd",
+            "name":"Muhammad Ridakhan",
+            "age":33,
+            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
+         },
+         "messages":[
+            {
+               "id":"asdsa",
+               "text":"Hello my darling can we hang?",
+               "time":4241231312,
+               "isMine":false
+            }
+         ]
+      }
+   ]
 }
