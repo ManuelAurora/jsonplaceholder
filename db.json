@@ -12,6 +12,27 @@
          "messages":[
             {
                "id":"asdsa",
+               "senderID": "43sasd",
+               "text":"Hello my darling can we hang?",
+               "time":4241231312,
+               "isMine":false
+            }
+         ]
+      },
+      {
+         "id": "asdasd",
+         "isEnabled":true,
+         "partner":{
+            "id":"43sasd",
+            "senderID": "43sasd",
+            "name":"Muhammad Ridakhan",
+            "age":33,
+            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
+         },
+         "messages":[
+            {
+               "id":"asdsa",
+               "senderID": "43sasd",
                "text":"Hello my darling can we hang?",
                "time":4241231312,
                "isMine":false
@@ -30,6 +51,7 @@
          "messages":[
             {
                "id":"asdsa",
+               "senderID": "43sasd",
                "text":"Hello my darling can we hang?",
                "time":4241231312,
                "isMine":false
@@ -48,24 +70,7 @@
          "messages":[
             {
                "id":"asdsa",
-               "text":"Hello my darling can we hang?",
-               "time":4241231312,
-               "isMine":false
-            }
-         ]
-      },
-      {
-         "id": "asdasd",
-         "isEnabled":true,
-         "partner":{
-            "id":"43sasd",
-            "name":"Muhammad Ridakhan",
-            "age":33,
-            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
-         },
-         "messages":[
-            {
-               "id":"asdsa",
+               "senderID": "43sasd",
                "text":"Hello my darling can we hang?",
                "time":4241231312,
                "isMine":false
