@@ -37,7 +37,14 @@
 			"id": "asdsa",
 			"senderID": "43sasd",
 			"text": "Hello my darling can we hang?",
-			"time": 4241231312,
+			"time": 1579371636,
+			"isMine": false
+		},
+	        {
+			"id": "asdsa2",
+			"senderID": "43sasd",
+			"text": "please, beatch",
+			"time": 1579371639,
 			"isMine": false
 		}]
 	}]
