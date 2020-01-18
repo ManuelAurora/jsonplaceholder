@@ -1,80 +1,44 @@
 {
-   "list":[
-      {
-         "id": "asdasd",
-         "isEnabled":true,
-         "partner":{
-            "id":"43sasd",
-            "name":"Muhammad Ridakhan",
-            "age":33,
-            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
-         },
-         "messages":[
-            {
-               "id":"asdsa",
-               "senderID": "43sasd",
-               "text":"Hello my darling can we hang?",
-               "time":4241231312,
-               "isMine":false
-            }
-         ]
-      },
-      {
-         "id": "asdasd",
-         "isEnabled":true,
-         "partner":{
-            "id":"43sasd",
-            "name":"Muhammad Ridakhan",
-            "age":33,
-            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
-         },
-         "messages":[
-            {
-               "id":"asdsa",
-               "senderID": "43sasd",
-               "text":"Hello my darling can we hang?",
-               "time":4241231312,
-               "isMine":false
-            }
-         ]
-      },
-      {
-         "id": "asdasd",
-         "isEnabled":true,
-         "partner":{
-            "id":"43sasd",
-            "name":"Muhammad Ridakhan",
-            "age":33,
-            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
-         },
-         "messages":[
-            {
-               "id":"asdsa",
-               "senderID": "43sasd",
-               "text":"Hello my darling can we hang?",
-               "time":4241231312,
-               "isMine":false
-            }
-         ]
-      },
-      {
-         "id": "asdasd",
-         "isEnabled":true,
-         "partner":{
-            "id":"43sasd",
-            "name":"Muhammad Ridakhan",
-            "age":33,
-            "avatarUrl":"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
-         },
-         "messages":[
-            {
-               "id":"asdsa",
-               "senderID": "43sasd",
-               "text":"Hello my darling can we hang?",
-               "time":4241231312,
-               "isMine":false
-            }
-         ]
-      }
-   ]
+	"list": [{
+		"id": "chatId1",
+		"isEnabled": true,
+		"partner": {
+			"photos": {
+				"privatePhotos": [
+					"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
+				],
+				"publicPhotos": [
+					"https://www1.cbn.com/sites/default/files/media/slider/images/26238876_2073053716273639_6522840659608970985_n.jpg"
+				]
+			},
+			"info": {
+				"id": "231231czxc",
+				"name": "Mukhammad Ridakhan",
+				"sex": "male",
+				"age": 31,
+				"children": 2,
+				"height": 187,
+				"weight": 99,
+				"haveCustodian": null
+			},
+			"generalInfo": {
+				"martialStatus": "married",
+				"jobTitle": "Engineer",
+				"shortBio": "I like to fuck and fuck a lot",
+				"education": "Stanford",
+				"nationality": "Velikiy Uzbek",
+				"languages": "rus, eng",
+				"live": "Moscow",
+				"confession": "muslim",
+				"faith": "strict"
+			}
+		},
+		"messages": [{
+			"id": "asdsa",
+			"senderID": "43sasd",
+			"text": "Hello my darling can we hang?",
+			"time": 4241231312,
+			"isMine": false
+		}]
+	}]
 }
