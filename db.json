@@ -47,5 +47,49 @@
 			"time": 1579371639,
 			"isMine": false
 		}]
+	},
+	{
+		"id": "chatId2",
+		"isEnabled": false,
+		"partner": {
+			"photos": {
+				"privatePhotos": [
+					"https://upload.wikimedia.org/wikipedia/ru/d/db/Muslim_Gakaev.jpg"
+				],
+				"publicPhotos": [
+					"https://static.businessinsider.com/image/51220ec4eab8eac059000000/image.jpg"
+				]
+			},
+			"info": {
+				"id": "111",
+				"name": "Khabib Imanov",
+				"sex": "male",
+				"age": 21,
+				"children": 0,
+				"height": 177,
+				"weight": 69,
+				"haveCustodian": null
+			},
+			"generalInfo": {
+				"martialStatus": "single",
+				"jobTitle": "Borec",
+				"shortBio": "Wrestling is my nature",
+				"education": "School only, sry",
+				"nationality": "Avarec",
+				"languages": "rus, eng",
+				"live": "Mahachkala",
+				"confession": "salafi",
+				"faith": "not really"
+			}
+		},
+		"messages": [
+			{
+			"id": "41422",
+			"senderID": "111",
+			"text": "Salam aleikum, wanna chat with ya",
+			"time": 1579371636,
+			"isMine": false
+			}
+		]
 	}]
 }
